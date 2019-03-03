@@ -1,7 +1,7 @@
 wifi.setmode(wifi.STATION)
 station_cfg={}
-station_cfg.ssid="CVRELECTRONIC"--"Velocilabs"
-station_cfg.pwd="CVR9401mcm02"--"73182516"
+station_cfg.ssid="******"
+station_cfg.pwd="*******"
 station_cfg.save=false
 wifi.sta.config(station_cfg)
 wifi.sta.connect()
