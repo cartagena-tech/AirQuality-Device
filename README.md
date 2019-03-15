@@ -1,6 +1,5 @@
 # AirQuality
-Proyecto que mide la calidad de aire en diferentes puntos de las ciudades del país!
-Desarrollado por CartagenaTech para todo aquél que desee colaborar.
+This project measures the quality air, temperature and humidity through the a custom hardware device.
 
-El proyecto aún se encuentra en fase de desarrollo...
+WARNING: This project is in *alpha* stage
 
