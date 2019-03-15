@@ -4,4 +4,3 @@ Desarrollado por CartagenaTech para todo aquél que desee colaborar.
 
 El proyecto aún se encuentra en fase de desarrollo...
 
-si deseas colaborar o apoyar este proyecto escribenos a airquality@cartagenatech.com
